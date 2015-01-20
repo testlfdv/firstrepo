@@ -1,0 +1,30 @@
+body {
+    font-family: "arial";
+}
+
+h1 {
+    color: white;
+    color: #fff;
+    font-size: 38px;
+    text-transform: uppercase;
+    padding: 48px;
+    font-weight: 100;
+}
+
+#para1 {
+
+}
+
+.important {
+    color:red;
+    font-weight:bold;
+    font-size:14px;
+}
+
+#top {
+    background: #21b5d9;
+}
+
+#bottom {
+
+}
